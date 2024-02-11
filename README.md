@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Kamal Patra
 - 👀 I’m interested in Data Science , Data Analyst and Business Analyst.
 - ✨ I’m currently ....
-- 💞️BCA graduate
-Dedicated and detail-oriented Data Analyst with 1-2 years of experience specializing in data cleansing and
+- 💞️BCA graduate with Cyber Analyst Experiance
+- Dedicated and detail-oriented Data Analyst with 1-2 years of experience specializing in data cleansing and
 analysis using Microsoft Excel. Proven ability to manage complex data transitions, enhance existing
 processes, and drive business metrics. Seeking a challenging role to contribute expertise in data
 management and team leadership.
